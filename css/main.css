@@ -1,0 +1,97 @@
+body {
+	font-family: 'PT Sans', sans-serif;
+    color: #3b3b3b;
+}
+.header {
+color: #000000;	
+}
+.telephone {
+	padding-top: 10px;
+}
+
+h1, h2, h3, h4, h5 {
+   
+    color: #000;
+}
+
+.logo {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.menu {
+	    background: #3b3b3b;
+		padding-top: 10px;	
+		padding-bottom: 10px;
+
+}
+
+.menu_item {
+	margin: 0 57px;
+	
+}
+ .menu_item a {
+	color: #fff;
+	font-size: 14px;
+}
+ .col-lg-12 {
+ padding-right: 0;
+ padding-left: 0;
+}
+.col-sm{
+
+margin: 0 10px;	
+}
+.row {
+	margin-top: 10px;
+}
+.col-md-3{
+	margin-top: 10px;
+}
+.col-md-6 {
+	text-align: justify;
+}
+.col-lg-4{
+	background: #6e6e6e;
+	
+}
+.modal-dialog{
+	margin-top: 250px;
+}
+.pagination>li>a, .pagination>li>span {
+    position: relative;
+    float: left;
+    padding: 6px 12px;
+    margin-left: -1px;
+    line-height: 1.42857143;
+    color: #6e6e6e;
+    text-decoration: none;
+    background-color: #fff;
+    border: 1px solid #fff;
+}
+.col-lg-10{
+	background: #6e6e6e;
+}
+.col-xs-6 {
+    width: 50%;
+    margin-bottom: 150px;
+}
+
+	.btn-default {
+    color: #333;
+    background-color: #ffffff;
+    border-color: #fff;
+    font-size: 18px;
+}
+
+.btn-default:hover {
+    color: #333;
+    background-color: #ffffff;
+    border-color: #fff;
+    font-size: 18px;
+}
+.btn-default.focus, .btn-default:focus {
+    color: #333;
+    background-color: #fff;
+    border-color: #fff;
+}
